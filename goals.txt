@@ -1,1 +1,4 @@
-I want to be a Swift developer..
+My Professional Goals:
+1. Master Swift and Flutter for mobile development.
+2. Build a high-quality portfolio on GitHub.
+3. Successfully complete Lab 10.
